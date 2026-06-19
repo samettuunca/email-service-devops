@@ -44,6 +44,9 @@ Bu değişiklikten sonra pod'lar stabil çalışmaya başladı.
 
 Docker, Kubernetes, Helm, ArgoCD, GitHub Actions, Trivy, Terraform, Azure AKS, Prometheus, Grafana
 
+<img width="1920" height="1032" alt="helm list" src="https://github.com/user-attachments/assets/feea34f3-f172-4cf5-a6e1-1a0ad1985c42" />
+
+
 ## Monitoring
 
 <img width="1920" height="951" alt="grafana " src="https://github.com/user-attachments/assets/7b45c3dc-b07f-43c7-93a2-93e57fdb68f3" />
@@ -54,7 +57,6 @@ Docker, Kubernetes, Helm, ArgoCD, GitHub Actions, Trivy, Terraform, Azure AKS, P
 ```bash
 helm install email-service ./email-chart
 
-<img width="1920" height="1032" alt="helm list" src="https://github.com/user-attachments/assets/3e1e0fa2-c1d9-4053-8909-29c2bd590a17" />
 
 
 ```
